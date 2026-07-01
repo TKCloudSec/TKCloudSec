@@ -1,99 +1,113 @@
-<h1 align="center">👋 Olá! Eu sou Kauê Teodoro</h1>
+<h1 align="center">☁️ Bem-vindo ao meu GitHub! 👋</h1>
 
-<h3 align="center">☁️ Cloud Security Engineer em Formação 🛡️</h3>
+<h2 align="center">Eu sou Kauê Teodoro</h2>
+
+<h3 align="center">🛡️ Cloud Security Engineer em Formação</h3>
 
 <p align="center">
-Apaixonado por Linux, Cloud Computing, Redes e Cibersegurança.
+Apaixonado por Linux, Computação em Nuvem, Redes, Automação e Cibersegurança.
 </p>
 
 ---
 
 # 👨‍💻 Sobre mim
 
-🎓 Estudante de Tecnologia em constante evolução.
+Olá! Meu nome é **Kauê Teodoro** e atualmente estou construindo minha carreira na área de **Cloud Security**.
 
-Meu objetivo é construir uma carreira sólida como **Cloud Security Engineer**, desenvolvendo habilidades em infraestrutura, segurança, automação e computação em nuvem.
+Sou formado como **Técnico em Desenvolvimento de Sistemas** e, durante minha formação, descobri que minha verdadeira paixão está em Infraestrutura, Linux, Redes e Segurança da Informação.
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-- ☁️ Cloud Computing
-- 🛡️ Cloud Security
-- 🐧 Linux
-- 🌐 Redes de Computadores
-- 🐍 Python
-- 📜 Bash Script
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ Infraestrutura como Código (IaC)
-- 🔒 Cibersegurança
+Hoje concentro meus estudos em tecnologias voltadas para ambientes em nuvem, automação de infraestrutura e proteção de sistemas, sempre buscando aprender por meio de laboratórios práticos, projetos Open Source e desafios reais.
 
 ---
 
-# 🚀 Minha Jornada de Estudos
+# 🎯 Minha Jornada
+
+Minha trajetória começou no curso **Técnico em Desenvolvimento de Sistemas**, onde desenvolvi diversos projetos e concluí meu Trabalho de Conclusão de Curso com o **ZenBox**, um ambiente Linux otimizado para estudos.
+
+Desde então, venho direcionando minha carreira para Cloud Security, aprofundando meus conhecimentos em:
+
+- ☁️ Computação em Nuvem
+- 🛡️ Segurança em Nuvem
+- 🐧 Linux
+- 🌐 Redes
+- ⚙️ Infraestrutura
+- 🐍 Automação com Python
+- 📜 Bash Script
+
+Meu objetivo é atuar futuramente como **Cloud Security Engineer**, contribuindo para ambientes seguros, automatizados e escaláveis.
+
+---
+
+# 🚀 Roadmap de Estudos
 
 ```text
-🐧 Linux                 ████████████░░░░ 70%
+🐧 Linux                 ██████████████░░ 80%
 
-🌐 Redes                 ██████████░░░░░░ 60%
+🌐 Redes                 ████████████░░░░ 70%
 
-☁️ Cloud Computing       ███████░░░░░░░░░ 40%
+☁️ Cloud Computing       ████████░░░░░░░░ 50%
 
-🛡️ Cloud Security        ██████░░░░░░░░░░ 35%
+🛡️ Cloud Security        ███████░░░░░░░░░ 45%
 
-🐳 Docker                █████░░░░░░░░░░░ 30%
+🐍 Python                ██████░░░░░░░░░░ 40%
 
-☸️ Kubernetes            ██░░░░░░░░░░░░░░ 15%
+📜 Bash                  ██████░░░░░░░░░░ 40%
 
-⚙️ Terraform             ██░░░░░░░░░░░░░░ 10%
+🐳 Docker                █████░░░░░░░░░░░ 35%
 
-🚀 DevSecOps             █░░░░░░░░░░░░░░░ 5%
+☸️ Kubernetes            ███░░░░░░░░░░░░░ 20%
+
+⚙️ Terraform             ██░░░░░░░░░░░░░░ 15%
+
+🚀 DevSecOps             ██░░░░░░░░░░░░░░ 10%
 ```
 
 ---
 
 # 💻 Tecnologias
 
-### 🖥️ Sistemas Operacionais
+## 🖥️ Sistemas Operacionais
 
 - Linux
 - Windows
 
-### 👨‍💻 Linguagens
+## 👨‍💻 Linguagens
 
 - Python
 - Bash
 
-### 📦 Versionamento
-
-- Git
-- GitHub
-
-### ☁️ Cloud
-
-- AWS (Estudando)
-- Azure (Futuramente)
-
-### 🐳 Containers
-
-- Docker
-- Kubernetes (Estudando)
-
-### 🌐 Redes
+## 🌐 Redes
 
 - TCP/IP
 - DNS
 - HTTP/HTTPS
 - SSH
 
+## 📦 Versionamento
+
+- Git
+- GitHub
+
+## ☁️ Cloud
+
+- Google Cloud Platform
+- AWS *(Estudando)*
+- Microsoft Azure *(Próximo passo)*
+
+## 🐳 Containers
+
+- Docker *(Estudando)*
+- Kubernetes *(Estudando)*
+
 ---
 
-# 📂 Projetos em Destaque
+# 📂 Projetos
 
 ## 🛡️ ZenBox
 
-Projeto de TCC focado na criação de um ambiente Linux leve e otimizado para estudos.
+Projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido para oferecer um ambiente Linux leve e otimizado para estudos.
 
-Tecnologias utilizadas:
+**Principais tecnologias**
 
 - Linux
 - Virtualização
@@ -104,13 +118,13 @@ Tecnologias utilizadas:
 
 ## ☁️ Cloud Security Labs
 
-Laboratórios práticos voltados para:
+Coleção de laboratórios focados em:
 
 - IAM
-- Segurança em Nuvem
 - Hardening
+- Cloud Security
 - Monitoramento
-- Redes
+- Segurança em Redes
 
 🚧 Em desenvolvimento.
 
@@ -118,7 +132,7 @@ Laboratórios práticos voltados para:
 
 ## 🐧 Linux Labs
 
-Coleção de estudos, scripts e laboratórios Linux.
+Laboratórios práticos envolvendo administração de sistemas Linux, shell scripting e troubleshooting.
 
 🚧 Em desenvolvimento.
 
@@ -126,7 +140,7 @@ Coleção de estudos, scripts e laboratórios Linux.
 
 ## 🌐 Networking Labs
 
-Laboratórios voltados para Redes de Computadores.
+Laboratórios voltados para protocolos, roteamento, SSH, DNS e fundamentos de Redes.
 
 🚧 Em desenvolvimento.
 
@@ -134,81 +148,107 @@ Laboratórios voltados para Redes de Computadores.
 
 ## 🐳 Docker Labs
 
-Estudos sobre containers e ambientes isolados.
+Estudos sobre containers, imagens, volumes e boas práticas.
 
 🚧 Em desenvolvimento.
 
 ---
 
-# 🎓 Certificações
+## ⚙️ Automation Labs
 
-## Concluídas
+Scripts em Python e Bash para automação de tarefas administrativas.
 
-- Bootcamps DIO
+🚧 Em desenvolvimento.
 
-## Próximas
+---
 
-- AWS Cloud Practitioner
-- AWS Security Specialty
-- AZ-900
-- AZ-500
-- CompTIA Security+
-- CCNA
+# 🎓 Formação e Certificações
+
+## 🎓 Formação Acadêmica
+
+### Técnico em Desenvolvimento de Sistemas
+
+📍 ETEC Juscelino Kubitschek de Oliveira
+
+📅 Conclusão: **2026**
+
+---
+
+## 📜 Certificações
+
+### 🐧 Linux
+
+- ✅ Linux Essentials — Cisco Networking Academy
+
+### ☁️ Cloud Computing
+
+- ✅ Implantação de Serviços em Nuvem – Google Cloud Foundations (SENAI)
+
+### 🛡️ Cibersegurança
+
+- ✅ Análise de Vulnerabilidades para Tratamentos de Riscos (SENAI)
+
+---
+
+# 📚 Atualmente Estudando
+
+- Cloud Security
+- Linux Administration
+- AWS
+- Docker
+- Kubernetes
+- Python
+- Bash
+- Redes de Computadores
+- DevSecOps
 
 ---
 
 # 🎯 Objetivos para 2026
 
-- ✅ Criar laboratórios de Cloud Security
-- ✅ Publicar projetos Open Source
+- ✅ Construir um portfólio focado em Cloud Security
+- ✅ Publicar laboratórios práticos no GitHub
 - ✅ Aprender Docker e Kubernetes
+- ✅ Aprimorar automações com Python e Bash
 - ✅ Obter certificações em Cloud
-- ✅ Contribuir para projetos da comunidade
-- ✅ Desenvolver automações com Python e Bash
+- ✅ Contribuir para projetos Open Source
 
 ---
 
-# 📚 Estudando Atualmente
+# 📈 Objetivo Profissional
 
-- Cloud Security
-- Linux
-- Redes
-- Python
-- Bash
-- Docker
-- Kubernetes
-- AWS
+Busco uma oportunidade para iniciar minha carreira na área de **Cloud Security**, contribuindo com soluções seguras para ambientes em nuvem e evoluindo constantemente como profissional.
 
----
+Tenho interesse especial em:
 
-# 📈 Filosofia
-
-> **"A prática constante transforma conhecimento em experiência."**
-
-Acredito que aprender fazendo é a melhor forma de evoluir. Por isso, este GitHub reúne projetos, laboratórios, scripts e experimentos que acompanham minha jornada rumo à área de Cloud Security.
+- ☁️ Cloud Computing
+- 🛡️ Cloud Security
+- 🐧 Linux
+- 🌐 Redes
+- ⚙️ Infraestrutura
+- 🚀 DevSecOps
+- 🤖 Automação
 
 ---
 
-# 📫 Contato
+# 📫 Vamos nos conectar?
 
-💼 LinkedIn *(Em breve)*
+💼 **LinkedIn:** *(Em breve)*
 
-📧 E-mail *(Em breve)*
+📧 **E-mail:** *(Em breve)*
+
+🐙 **GitHub:** https://github.com/TKCloudSec
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
-<!--
-**TKCloudSec/TKCloudSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💡 Filosofia
 
-Here are some ideas to get you started:
+> "A tecnologia evolui todos os dias. Meu compromisso é evoluir junto com ela."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acredito que o aprendizado contínuo, aliado à prática em laboratórios e projetos reais, é o caminho para construir uma carreira sólida em Cloud Security.
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
+
+Se quiser acompanhar minha evolução, fique à vontade para explorar meus projetos e laboratórios. Feedbacks e sugestões são sempre bem-vindos!
